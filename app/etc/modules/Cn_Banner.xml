@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Cn_Banner>
-            <active>false   </active>
+            <active>true</active>
             <codePool>local</codePool>
         </Cn_Banner>
     </modules>
